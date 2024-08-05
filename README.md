@@ -1,3 +1,3 @@
-<div align="center" style="background-color: #5E4679">
-  <img src="https://github.com/user-attachments/assets/1333ea66-9d9d-4fc3-a329-0f8c6e8452ef" alt="bg">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6e7af7f3-01db-4df5-a1fe-ebeabe9c3845" alt="bg" width="100%">
 </div>
